@@ -1,10 +1,20 @@
- hello, welcome to my portfolio!
+Hello, welcome to my profile!
 
 <h1 align="center">
 I'm Zainab
 </h1>
 
-***Undergraduate BSCS student***
+<p align="center">
+Undergraduate BSCS Student
+</p>
+
+---
+
+## About Me
+
+- From Lahore, Pakistan
+- BSCS Semester 1 student @ LGU
+- 8teen
 
 ---
 
@@ -12,10 +22,15 @@ I'm Zainab
 
 **Programming Languages:** `C` • `C++`
  
-**Web Technologies:** `HTML` • `CSS` • `JavaScript`
+**Web Technologies:** `HTML` • `CSS` • `JavaScript` • `SCSS` • `SASS` •
 
 **Others:** `MS Office` • `Graphic Designing` 
+
 <!---
-zxynxb/zxynxb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+---
+
+## Contact
+
+email, twitter/x, linkedin, website
+
 --->
