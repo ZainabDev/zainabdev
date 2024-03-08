@@ -14,7 +14,7 @@ Undergraduate BSCS Student
 
 - From Lahore, Pakistan
 - BSCS Semester 1 student @ LGU
-- 8teen
+- 18
 
 ---
 
@@ -22,7 +22,7 @@ Undergraduate BSCS Student
 
 **Programming Languages:** `C` • `C++`
  
-**Web Technologies:** `HTML` • `CSS` • `JavaScript` • `SCSS` • `SASS` •
+**Web Technologies:** `HTML` • `CSS` • `JavaScript` • `SCSS` • `SASS`
 
 **Others:** `MS Office` • `Graphic Designing` 
 
