@@ -14,16 +14,17 @@
 ### Programming Languages 
 
 <p>
-<img alt="C++" src="https://img.shields.io/badge/-C++-violet?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-deepskyblue?style=flat-square&logo=javascript&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/-C-1A7AA8?style=flat-square&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/-C++-navy?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
 
 ### Web Technologies 
 
 <p>
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-crimson?style=flat-square&logo=html5&logoColor=white"/>
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-yellow?style=flat-square&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-deepskyblue?style=flat-square&logo=javascript&logoColor=white"/>
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-navy?style=flat-square&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 </p>
 
