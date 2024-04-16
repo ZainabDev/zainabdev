@@ -67,7 +67,8 @@
 # Statistics
 
 <p>
-  <a href="https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true"><img alt="zxynxb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true"/></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&theme=blue_navy&hide_border=true"><img alt="zxynxb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&theme=blue_navy&hide_border=true"/></a>
+  <br>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zxynxb&layout=donut&theme=blue_navy&hide_border=true&hide_progress=false"><img alt="zxynxb's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxynxb&layout=donut&theme=blue_navy&hide_border=true&hide_progress=false"/></a>
 </p>
 
