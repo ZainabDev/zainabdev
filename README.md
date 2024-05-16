@@ -58,17 +58,16 @@
 
 <p>
   <a href="https://github.com/zxynxb"><img alt="GitHub (@zxynxb)" src="https://img.shields.io/badge/-GitHub-mediumslateblue?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://codepen.io/zxynxb"><img alt="CodePen (@zxynxb)" src="https://img.shields.io/badge/-CodePen-orchid?style=flat-square&logo=codepen&logoColor=white"/></a>
+  <a href="https://codepen.io/ZainabDev"><img alt="CodePen (@ZainabDev)" src="https://img.shields.io/badge/-CodePen-orchid?style=flat-square&logo=codepen&logoColor=white"/></a>
   <a href="https://twitter.com/ZainabDev"><img alt="X/Twitter (@ZainabDev)" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white"/></a>
   <a href="https://discord.com/users/1213903007444373555"><img alt="Discord (@zainabdev)" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+  <a href="https://twitter.com/ZainabDev"><img alt="X/Twitter (@ZainabDev)" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ZainabDev/"><img alt="LinkedIn (@ZainabDev)" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
 # Statistics
 
-<p>
-  <a href="https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&theme=blue_navy&hide_border=true"><img alt="zxynxb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&theme=blue_navy&hide_border=true"/></a>
-  <br>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zxynxb&layout=donut&theme=blue_navy&hide_border=true&hide_progress=false"><img alt="zxynxb's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxynxb&layout=donut&theme=blue_navy&hide_border=true&hide_progress=false"/></a>
-</p>
-
+| GitHub Stats | Most Used Languages |
+|--------------|---------------------|
+| [![zxynxb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&theme=blue_navy&hide_border=true)](https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&theme=blue_navy&hide_border=true) | [![zxynxb's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxynxb&layout=donut&theme=blue_navy&hide_border=true&hide_progress=false)](https://github-readme-stats.vercel.app/api/top-langs/?username=zxynxb&layout=donut&theme=blue_navy&hide_border=true&hide_progress=false) |
