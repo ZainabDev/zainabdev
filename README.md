@@ -1,13 +1,13 @@
 # Hey there! Welcome to my profile.
 
-### I'm Zainab
+### I'm Zainab Ehsan
 > Software Engineer & Web Developer
 
 # About Me
 
 - 📍 I'm based in Pakistan.
 - 🎓 BSCS Semester 2 student @ Lahore Garrison University.
-- 🩷 I love to make websites in my free time.
+- 🩷 I love to make websites, CSS frameworks & apps in my free time.
 
 # Tech Stack
 
