@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&theme=blue_navy&hide_border=true" alt="zxynxb's GitHub Stats" style="display: block; margin: auto;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&theme=blue_navy&hide_border=true&rank_icon=github" alt="zxynxb's GitHub Stats" style="display: block; margin: auto;" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxynxb&layout=donut&theme=blue_navy&hide_border=true&hide_progress=false" alt="zxynxb's Most Used Languages" style="display: block; margin: auto;" />
