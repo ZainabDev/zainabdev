@@ -2,9 +2,8 @@
 
 ## About me
 
-### I'm Zainab Ehsan
-A software engineer and web developer with a passion for building connections and innovative solutions. With a strong foundation in computer science and a keen interest in emerging technologies, I thrive in collaborative environments where creativity and problem-solving come together. When I'm not coding, you can find me indulging in thrill-seeking activities like watching scary movies or expressing my creativity through CSS artistry. Let's connect and create something impactful together!
-
+Hi, I'm Zainab, a Web Developer and Computer Science student from Pakistan. With a strong foundation in C, C++, and JavaScript, I create interactive and visually appealing websites and software solutions. I'm passionate about AI, Robotics, and iOS Development, and always eager to explore new concepts and industry trends. Outside of code, I enjoy horror movies and photography, and I'm excited to connect and collaborate with like-minded individuals!
+ 
 ## Technologies
 
 ### Languages
