@@ -51,8 +51,9 @@ Hi, I'm Zainab, a Web Developer and Computer Science student from Pakistan. With
 ## Social
 
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/zxynxb)
-[![CodePen](https://img.shields.io/badge/-CodePen-000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/ZainabDev)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/ZainabDev)
+[![CodePen](https://img.shields.io/badge/-CodePen-000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/ZainabDev)
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@ZainabDev)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1213903007444373555)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ZainabDev/)
 
