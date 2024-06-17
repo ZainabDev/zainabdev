@@ -61,7 +61,7 @@ Hi, I'm Zainab, a Web Developer and Computer Science student from Pakistan. With
 
 | GitHub Stats | Most Used Languages |
 |---|---|
-| ![zxynxb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&theme=blue_navy&hide_border=true&rank_icon=github) | ![zxynxb's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxynxb&layout=compact&theme=blue_navy&hide_border=true&hide_progress=false) |
+| ![zxynxb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&theme=blue_navy&hide_border=true) | ![zxynxb's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxynxb&layout=compact&theme=blue_navy&hide_border=true&hide_progress=false) |
 
 | GitHub Streak Stats |
 |---|
