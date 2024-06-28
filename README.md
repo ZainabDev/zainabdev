@@ -50,7 +50,7 @@ Hi, I'm Zainab, a Web Developer and Computer Science student from Pakistan. With
 
 ## Social
 
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/zxynxb)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/zainabdev)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/ZainabDev)
 [![CodePen](https://img.shields.io/badge/-CodePen-000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/ZainabDev)
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@ZainabDev)
@@ -61,8 +61,8 @@ Hi, I'm Zainab, a Web Developer and Computer Science student from Pakistan. With
 
 | GitHub Stats | Most Used Languages |
 |---|---|
-| ![zxynxb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxynxb&show_icons=true&theme=blue_navy&hide_border=true) | ![zxynxb's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxynxb&layout=compact&theme=blue_navy&hide_border=true&hide_progress=false) |
+| ![zainabdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainabdev&show_icons=true&theme=blue_navy&hide_border=true) | ![zainabdev's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainabdev&layout=compact&theme=blue_navy&hide_border=true&hide_progress=false) |
 
 | GitHub Streak Stats |
 |---|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=zxynxb&theme=blue-navy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=compact) |
+| ![GitHub Streak](https://streak-stats.demolab.com?user=zainabdev&theme=blue-navy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=compact) |
