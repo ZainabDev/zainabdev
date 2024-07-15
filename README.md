@@ -12,7 +12,7 @@ Hi, I'm Zainab, a Web Developer and Computer Science student from Pakistan. With
 ![C++](https://img.shields.io/badge/-C++-navy?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 
-**Currently Learning:** Swift
+**Currently Learning:** C#
 
 ### Web Technologies 
 
@@ -23,7 +23,7 @@ Hi, I'm Zainab, a Web Developer and Computer Science student from Pakistan. With
 
 ### Frameworks, Platforms and Libraries
 
-**Currently Learning:** React
+**Currently Learning:** .NET
 
 ### IDEs/Editors
 
