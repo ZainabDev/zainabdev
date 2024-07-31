@@ -27,7 +27,9 @@ Hi, I'm Zainab, a Web Developer and Computer Science student from Pakistan. With
 
 ### IDEs/Editors
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-613F93?style=flat-square&logo=visualstudio&logoColor=white)
+
 
 ### Version Control
 
