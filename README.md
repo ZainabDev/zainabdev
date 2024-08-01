@@ -58,13 +58,3 @@ Hi, I'm Zainab, a Web Developer and Computer Science student from Pakistan. With
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@ZainabDev)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1213903007444373555)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ZainabDev/)
-
-## Statistics
-
-| GitHub Stats | Most Used Languages |
-|---|---|
-| ![zainabdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZainabDev&show_icons=true&theme=blue_navy&hide_border=true) | ![zainabdev's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainabDev&layout=compact&theme=blue_navy&hide_border=true&hide_progress=false) |
-
-| GitHub Streak Stats |
-|---|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=ZainabDev&theme=blue-navy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=compact) |
