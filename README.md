@@ -7,54 +7,30 @@ Hi, I'm Zainab, a Web Developer and Computer Science student from Pakistan. With
 ## Technologies
 
 ### Languages
+`C` `C++` `JavaScript`
 
-![C](https://img.shields.io/badge/-C-1A7AA8?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-navy?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-
-**Currently Learning:** C#
+**Currently Learning:** `C#`
 
 ### Web Technologies 
-
-![HTML](https://img.shields.io/badge/-HTML-crimson?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-navy?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+`HTML` `CSS` `JavaScript` `SASS` `SCSS`
 
 ### Frameworks, Platforms and Libraries
-
-**Currently Learning:** .NET
+**Currently Learning:** `.NET`
 
 ### IDEs/Editors
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-613F93?style=flat-square&logo=visualstudio&logoColor=white)
-
+`Visual Studio Code` `Visual Studio`
 
 ### Version Control
-
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)
+`GitHub` 
 
 ### Productivity/Development Tools
-
-![Prettier](https://img.shields.io/badge/-Prettier-d96665?style=flat-square&logo=prettier&logoColor=white)
-![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+`Prettier` `NPM` 
 
 ### Hosting/SaaS
-
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-0db9b6?style=flat-square&logo=netlify&logoColor=white)
-![Github Pages](https://img.shields.io/badge/-GitHub%20Pages-333?style=flat-square&logo=github&logoColor=white)
+`Vercel` `Netlify` `Github Pages`
 
 ### Databases
-
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+`Microsoft SQL Server` 
 
 ## Social
-
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/ZainabDev)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/ZainabDev)
-[![CodePen](https://img.shields.io/badge/-CodePen-000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/ZainabDev)
-[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@ZainabDev)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1213903007444373555)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ZainabDev/)
+[GitHub](https://github.com/ZainabDev) • [Twitter](https://x.com/ZainabDev) • [CodePen](https://codepen.io/ZainabDev) • [Hashnode](https://hashnode.com/@ZainabDev) • [Discord](https://discord.com/users/1213903007444373555) • [LinkedIn](https://www.linkedin.com/in/ZainabDev/)
